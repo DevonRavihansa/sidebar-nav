@@ -2,12 +2,12 @@
   "records": [
     {
       "Name": "John Doe",
-      "City": "Silicon Valley".
+      "City": "Silicon Valley",
       "Country": "USA"
     },
     {
       "Name": "Ann Smith",
-      "City": "London".
+      "City": "London",
       "Country": "UK"
     }
   ]
